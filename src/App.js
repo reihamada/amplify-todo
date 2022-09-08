@@ -48,7 +48,7 @@ function App() {
   return (
     <React.Fragment>
       <button onClick={signOut}>Sign out</button>
-      <div>Hello World</div>
+      <div>Hello World2</div>
     </React.Fragment>
   );
 }
