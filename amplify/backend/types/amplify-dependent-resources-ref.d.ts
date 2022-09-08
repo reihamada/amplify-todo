@@ -21,5 +21,12 @@ export type AmplifyDependentResourcesAttributes = {
             "CloudFrontSecureURL": "string",
             "CloudFrontOriginAccessIdentity": "string"
         }
+    },
+    "api": {
+        "amplifytodo": {
+            "GraphQLAPIKeyOutput": "string",
+            "GraphQLAPIIdOutput": "string",
+            "GraphQLAPIEndpointOutput": "string"
+        }
     }
 }
